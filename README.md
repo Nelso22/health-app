@@ -12,7 +12,7 @@ to be. The project uses react router to create routes that display a detailed de
 After choosing the directory to clone the repo, copy and paste the command into the terminal
 
 ```
-git clone https://github.com/Nelso22/dailysweat.git
+git clone https://github.com/Nelso22/health-app.git
 
 ```
 
