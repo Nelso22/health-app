@@ -29,4 +29,3 @@ npm run dev
 ### Demo
 
 [Link](https://dailysweat-ais0k6le2-nelso22s-projects.vercel.app)
-# health-app
